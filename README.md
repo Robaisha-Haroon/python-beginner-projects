@@ -3,6 +3,7 @@ My Python Learning Journey
 Hey there! Welcome to my repository. This is a collection of the Python scripts and small projects I've been building while teaching myself how to code. It tracks my progress from simple calculators to slightly more complex management tools.
 
 📁 What's in this Repository?
+
 I've grouped my scripts based on what they do so it's easier to navigate:
 
 🏦 Apps & Management
